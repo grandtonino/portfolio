@@ -51,12 +51,12 @@ const translations = {
                           es: 'He trabajado en proyectos como la acreditación fotográfica del Santiago Bernabéu, y me muevo entre el plató y la cámara Hasselblad con la misma exigencia. Busco oportunidades en departamentos de cámara e iluminación en Europa.' },
 
   'kit-training-label':{ en: 'Training', es: 'Formación' },
-  'kit-training-value':{ en: 'Higher Vocational Degree — Lighting, Image Capture and Processing', es: 'Grado Superior — Iluminación, Captación y Tratamiento de Imagen' },
+  'kit-training-value':{ en: 'Higher Vocational Degree — Lighting, Image Capture and Processing', es: 'Grado Superior — Iluminación, Captación y Tratamiento de la Imagen' },
   'kit-base-label':    { en: 'Based in', es: 'Base' },
   'kit-base-value':    { en: 'Madrid, Spain', es: 'Madrid, España' },
   'kit-camera-label':  { en: 'Still camera', es: 'Cámara fija' },
   'kit-lang-label':    { en: 'Languages', es: 'Idiomas' },
-  'kit-lang-value':    { en: 'Spanish · English · Italian · Portuguese', es: 'Español · Inglés · Italiano · Portugués' },
+  'kit-lang-value':    { en: 'Spanish · English · Portuguese', es: 'Español · Inglés · Portugués' },
 
   'footer-eyebrow':    { en: 'Available for projects', es: 'Disponible para proyectos' },
   'footer-title':      { en: "Let's talk about your <em>next shoot.</em>", es: 'Hablemos de tu <em>próximo rodaje.</em>' },
