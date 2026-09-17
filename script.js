@@ -41,9 +41,12 @@ const translations = {
 
   'foto-eyebrow':      { en: 'Still camera · Hasselblad 500C', es: 'Cámara fija · Hasselblad 500C' },
   'foto-title':        { en: 'Photo<em>graphy</em>', es: 'Foto<em>grafía</em>' },
-  'photo-caption-1':  { en: 'Digital. Madrid, 2026', es: 'Digital. Madrid, 2026' },
-  'photo-caption-2':  { en: 'Digital. Madrid, 2026', es: 'Digital. Madrid, 2026' },
-  'photo-caption-3':  { en: 'Analog. Madrid, 2026', es: 'Analógico. Madrid, 2026' },
+  'photo-caption-1':   { en: 'Digital. Madrid, 2026', es: 'Digital. Madrid, 2026' },
+  'photo-caption-2':   { en: 'Digital. Madrid, 2026', es: 'Digital. Madrid, 2026' },
+  'photo-caption-3':   { en: 'Analog. Madrid, 2026', es: 'Analógico. Madrid, 2026' },
+  'photo-caption-4':   { en: 'Title — Location, format', es: 'Título — Lugar, formato' },
+  'photo-caption-5':   { en: 'Title — Location, format', es: 'Título — Lugar, formato' },
+  'photo-caption-6':   { en: 'Title — Location, format', es: 'Título — Lugar, formato' },
 
   'portrait-label':    { en: 'PORTRAIT', es: 'RETRATO' },
   'about-eyebrow':     { en: 'About', es: 'Sobre mí' },
