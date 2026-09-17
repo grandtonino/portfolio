@@ -46,7 +46,7 @@ const translations = {
   'photo-caption-3':   { en: 'Analog. Madrid, 2026', es: 'Analógico. Madrid, 2026' },
   'photo-caption-4':   { en: 'Digital. Castilla la Mancha, 2025', es: 'Digital. Castilla la Mancha, 2025' },
   'photo-caption-5':   { en: 'Analog. Madrid, 2026', es: 'Analógico. Madrid, 2026' },
-  'photo-caption-6':   { en: 'Title — Location, format', es: 'Título — Lugar, formato' },
+  'photo-caption-6':   { en: 'Analog. Bratislava, 2026', es: 'Analógico. Bratislava, 2026' },
 
   'portrait-label':    { en: 'PORTRAIT', es: 'RETRATO' },
   'about-eyebrow':     { en: 'About', es: 'Sobre mí' },
