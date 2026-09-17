@@ -44,7 +44,7 @@ const translations = {
   'photo-caption-1':   { en: 'Digital. Madrid, 2026', es: 'Digital. Madrid, 2026' },
   'photo-caption-2':   { en: 'Digital. Madrid, 2026', es: 'Digital. Madrid, 2026' },
   'photo-caption-3':   { en: 'Analog. Madrid, 2026', es: 'Analógico. Madrid, 2026' },
-  'photo-caption-4':   { en: 'Digital. Madrid, 2026', es: 'Digital. Madrid, 2026' },
+  'photo-caption-4':   { en: 'Digital. Castilla la Mancha, 2026', es: 'Digital. Castilla la Mancha, 2026' },
   'photo-caption-5':   { en: 'Title — Location, format', es: 'Título — Lugar, formato' },
   'photo-caption-6':   { en: 'Title — Location, format', es: 'Título — Lugar, formato' },
 
